@@ -1,1 +1,1 @@
-# RPiComputerVIsion
+# RPiComputerVision
