@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+imx500-all
+imx500-tools
+python3-picamera2
